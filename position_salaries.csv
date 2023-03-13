@@ -1,0 +1,11 @@
+Position,Level,Salary
+Business_Anayst,1,45000
+Junior_consultant,2,50000
+Senior_consultant,3,60000
+Manager,4,80000
+Country_manager,5,110000
+Region_manager,6,150000
+Partner,7,200000
+senior_partner,8,300000
+C-level,9,500000
+CEO,10,1000000
